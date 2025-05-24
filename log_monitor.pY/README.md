@@ -1,4 +1,4 @@
- # Log_monitor.py
+# Log_monitor.py
 
 A Python script to monitor a log file in real-time for suspicious entries containing keywords like 'failed', 'unauthorized', or 'invalid'.
 
